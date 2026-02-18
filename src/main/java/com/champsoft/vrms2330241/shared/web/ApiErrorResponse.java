@@ -1,3 +1,3 @@
-﻿package com.champsoft.vrms2330241.shared.web;
+package com.champsoft.vrms2330241.shared.web;
 
-public record ApiErrorResponse(String message, String code) { }
+public record ApiErrorResponse(java.time.Instant now, int value, String message, String code, String requestURI) { }

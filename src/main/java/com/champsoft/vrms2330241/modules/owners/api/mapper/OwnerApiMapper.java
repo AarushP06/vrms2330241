@@ -1,4 +1,4 @@
-﻿package com.champsoft.vrms2330241.modules.owners.api.mapper;
+package com.champsoft.vrms2330241.modules.owners.api.mapper;
 
 public class OwnerApiMapper {
 }

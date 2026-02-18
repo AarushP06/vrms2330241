@@ -1,4 +1,4 @@
-﻿package com.champsoft.vrms2330241.modules.agents.infrastructure.persistence;
+package com.champsoft.vrms2330241.modules.agents.infrastructure.persistence;
 
 public class AgentJpaEntity {
 }
